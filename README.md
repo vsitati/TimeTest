@@ -11,7 +11,7 @@ Running the Tests
     Clone the repository to your local machine
     Install the necessary packages by running pip install -r requirements.txt
     Open a terminal and navigate to the project directory
-    Run the tests by executing python test_suite.py
+    Run the tests by executing python test_users.py
 
 Test Cases
 
